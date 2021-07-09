@@ -1,0 +1,17 @@
+{
+"inputPath": "small",
+"runSteps": 0,
+
+"createImage": true,
+"outputPath": "small",
+"clamp": false,
+"clampHeight": 10000,
+
+"printHaltContext": true,
+
+"printTapeHistory": false,
+
+"printRealTimeSteps": false,
+
+"printRules": false
+}
