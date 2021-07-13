@@ -1,0 +1,17 @@
+{
+"inputPath": "schult",
+"runSteps": 0,
+
+"createImage": true,
+"outputPath": "small",
+"clamp": true,
+"clampHeight": 10000,
+
+"printHaltContext": false,
+
+"printTapeHistory": false,
+
+"printRealTimeSteps": false,
+
+"printRules": false
+}
